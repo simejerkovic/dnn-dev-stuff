@@ -1,3 +1,3 @@
-# dnn-dev-stuff
+# DNN development stuff
 
 saved for future
